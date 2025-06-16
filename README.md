@@ -18,3 +18,18 @@ El objetivo es comparar la precisión y generar explicaciones globales y locales
 - **pandas** 2.2.3  
 - **NumPy** 1.26.4  
 
+
+## Descarga de Datos
+
+Debido al tamaño de los datos, los archivos preprocesados (splits, XMLs ) se alojan en Google Drive. Puedes acceder a la carpeta completa desde el siguiente enlace:
+
+[Reporte Consultoria 2025] (https://drive.google.com/drive/folders/1jD4hBMhydmnj4G4p2XauA_PYQSd1BEb-?hl=es)
+
+### Instrucciones para la descarga
+
+1. Accede al enlace y descarga el archivo `data_consultoria_2025.zip`.
+
+
+2. Descomprime los datos en la carpeta `data/processed`:
+   ```bash
+   unzip data.zip -d data/processed
